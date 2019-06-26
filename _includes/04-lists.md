@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. First step
+2. Second step
+3. Third step
